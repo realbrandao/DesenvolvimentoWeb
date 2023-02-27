@@ -1,0 +1,4 @@
+https://git-scm.com/docs
+https://docs.python.org/3/library/index.html
+https://code.visualstudio.com/docs
+https://github.com/sqlitebrowser/sqlitebrowser/wiki
