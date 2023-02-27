@@ -1,4 +1,10 @@
-https://git-scm.com/docs
-https://docs.python.org/3/library/index.html
-https://code.visualstudio.com/docs
-https://github.com/sqlitebrowser/sqlitebrowser/wiki
+git:    https://git-scm.com/docs
+        referencia: a ferramenta que auxilia a fazer os commits e fazer upload para nuvem do github além de facilitar o trabalho em equipe
+python: https://docs.python.org/3/library/index.html
+        referencia: uma das linguagens que podem ser usadas para desenvolver aplicações web com o framework Django
+vscode: https://code.visualstudio.com/docs
+        referencia: editor de texto que é mais usado que proporciona um melhor aproveitamento do desenvolvimento
+sqlite: https://github.com/sqlitebrowser/sqlitebrowser/wiki
+        referencia: analisar banco de dados visualmente
+chrome: https://developer.chrome.com/docs/
+        referencia: saber usar uma das ferramentas essenciais para desenvolver aplicações web o que 
